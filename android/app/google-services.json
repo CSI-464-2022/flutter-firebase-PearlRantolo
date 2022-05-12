@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357863269444",
+    "project_id": "csi44-a2441",
+    "storage_bucket": "csi44-a2441.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357863269444:android:2570277d02cacbd82f8811",
+        "android_client_info": {
+          "package_name": "com.kesegotumisang.csi464"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357863269444-r715ed89347c1kik7k32ildo27rhiddi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMH7DDwDYoBzRd4i6_fUsO-8dOk7-RQUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357863269444-r715ed89347c1kik7k32ildo27rhiddi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
